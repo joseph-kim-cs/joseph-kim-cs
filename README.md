@@ -1,5 +1,5 @@
 <h1>Joseph Kim</h1>
- - **jkim3643@usc.edu**
+ - jkim3643@usc.edu
  - linkedin.com/in/joseph-kim-jk
 
 <h3 align="left">Languages and Tools:</h3>
